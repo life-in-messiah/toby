@@ -1,0 +1,18 @@
+/*
+Theme Name: Toby
+Description: A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the Enfold Wordpress Theme.
+Version: 1.0
+Author: Joshua Austin
+Author URI: https://github.com/nonproftechie
+Template: enfold
+*/
+
+/*Add your own styles here:*/
+
+.av-masonry-date,
+.ajax_search_excerpt,
+.avia-post-nav,
+.av-icon-display.av-masonry-media,
+#scroll-top-link.avia_pop_class {
+  display: none;
+}
